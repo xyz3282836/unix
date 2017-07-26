@@ -81,7 +81,7 @@ open、read、write、lseek、close
 
 ### open和openat
 
-
+create
 
 
 
