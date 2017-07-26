@@ -64,3 +64,24 @@ fork和execlp和waitpid组合就是产生spawn一个新进程
 3个独立组织制定的3个标准：ISO C、IEEE POSIX、Single UNIX Specification
 
 具体实现：SVR4、BSD、FreeBSD、Linux、Mac OS X、Solaris、其他Unix系统
+
+
+
+# 3.文件I/O
+
+open、read、write、lseek、close
+
+文件描述符：0、1、2
+
+0：标准输入
+
+1：标准输出
+
+2：标准错误
+
+### open和openat
+
+
+
+
+
