@@ -139,3 +139,4 @@ linux通过设置socket为non-blocking，数据准备到缓冲区不会阻塞，
 
 IO多路复用 IO multiplexing  多个异步IO，通过select/poll/epoll来维护
 
+Epoll 用红黑树存储socket，还会建立一个list链表，存储事件
